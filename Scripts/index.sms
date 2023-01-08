@@ -1,0 +1,8 @@
+var x = 1
+if (x > 2) {
+    print("1 is higher than 2")
+}
+void test() {
+    print("Hello World!")
+}
+run: test()
